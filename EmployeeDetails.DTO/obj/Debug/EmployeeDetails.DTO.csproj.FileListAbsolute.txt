@@ -1,0 +1,6 @@
+C:\Users\msharee\source\repos\LearnApp2\EmployeeDetails.DTO\bin\Debug\EmployeeDetails.DTO.dll
+C:\Users\msharee\source\repos\LearnApp2\EmployeeDetails.DTO\bin\Debug\EmployeeDetails.DTO.pdb
+C:\Users\msharee\source\repos\LearnApp2\EmployeeDetails.DTO\obj\Debug\EmployeeDetails.DTO.csprojAssemblyReference.cache
+C:\Users\msharee\source\repos\LearnApp2\EmployeeDetails.DTO\obj\Debug\EmployeeDetails.DTO.csproj.CoreCompileInputs.cache
+C:\Users\msharee\source\repos\LearnApp2\EmployeeDetails.DTO\obj\Debug\EmployeeDetails.DTO.dll
+C:\Users\msharee\source\repos\LearnApp2\EmployeeDetails.DTO\obj\Debug\EmployeeDetails.DTO.pdb
